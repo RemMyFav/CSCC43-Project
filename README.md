@@ -1,3 +1,3 @@
 ## CSCC43-Project
-# ER-diargam: In file ER
-# Assumption, Design: In file Design
+# ER-diargam: In file ER.png
+# Assumption, Design: In file Design.jpeg
